@@ -9,7 +9,7 @@
 }
 
 .artist-button{
-    background-color: rgb(97, 95, 95);
+    background-color: rgb(6, 102, 92);
     margin: 5px; 
     padding: 5px 12px;
     color: white;
@@ -18,7 +18,16 @@
 
 .giphs{
     margin: 5px;
-    border: 10px;
+    border: 20px;
     border-color: black;
     padding: 5px;
+}
+
+#submit{
+    background-color: rgb(35, 35, 92);
+}
+
+#search{
+    float: right;
+    margin-left: 50px;
 }
